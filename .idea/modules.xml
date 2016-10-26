@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Koala.iml" filepath="$PROJECT_DIR$/Koala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/koala6xapi/koala6xapi.iml" filepath="$PROJECT_DIR$/koala6xapi/koala6xapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/koala6xsample/koala6xsample.iml" filepath="$PROJECT_DIR$/koala6xsample/koala6xsample.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Koala6xSample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_devices_list">DevicesListActivity</string>
+    <string name="title">NCTU1210</string>
+    <string name="lastConnectLab">Last connected device:</string>
+    <string name="connLastDevice">Connect Last Device</string>
+    <string name="scanAll">Scan All</string>
+</resources>

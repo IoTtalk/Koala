@@ -1,0 +1,3 @@
+/* include ':koala6xsample', ':koala3xsample', ':koala3xapi', ':koala6xapi' */
+include ':koala6xsample', ':koala6xapi'
+/* include ':koala6xsample' */
